@@ -1,7 +1,7 @@
 {
   "name": "jankQuery",
   "main": "index.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/gdi2290/jankQuery",
   "authors": [
     "gdi2290 <github@gdi2290.com>"
